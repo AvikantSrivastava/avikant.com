@@ -22,7 +22,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/AvikantSrivastava",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -34,25 +34,25 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://instagram.com/aesthetixell_",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.linkedin.com/in/avikantsrivastava/",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "me@avikant.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
   {
     name: "Twitter",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://twitter.com/aesthetixell",
     linkTitle: `${SITE.title} on Twitter`,
     active: true,
   },
@@ -100,7 +100,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Discord",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "discordapp.com/users/avikant",
     linkTitle: `${SITE.title} on Discord`,
     active: true,
   },
