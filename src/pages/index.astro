@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Mingalaba</h1>
+      <h1>Avikant Srivastava</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -40,13 +40,25 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </svg>
       </a>
 
+      <img
+        alt="My image"
+        src="https://avatars.githubusercontent.com/u/41926176?v=4"
+        style="background: url(https://avatars.githubusercontent.com/u/41926176?v=4) 100% / cover;
+        border-radius: 10px;
+            width:200px;"
+      />
+      <br>
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+        I am a passionate software engineer with a strong focus on machine
+        learning and backend development. Currently working at <LinkButton
+          className="hover:text-skin-accent bold underline underline-offset-4 decoration-dashed"
+          href="https://www.hackerrank.com"
+        >
+          <b>HackerRank</b>
+        </LinkButton> in the Machine Learning team developing innovative solutions
+        for screen and interview products.
       </p>
-      <p>
+      <!-- <p>
         Read the blog posts or check
         <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
@@ -54,7 +66,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         >
           README
         </LinkButton> for more info.
-      </p>
+      </p> -->
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
@@ -68,7 +80,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
     <Hr />
 
-    {
+    <!-- {
       featuredPosts.length > 0 && (
         <>
           <section id="featured">
@@ -86,9 +98,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           <Hr />
         </>
       )
-    }
+    } -->
 
-    <section id="recent-posts">
+    <!-- <section id="recent-posts">
       <h2>Recent Posts</h2>
       <ul>
         {
@@ -114,7 +126,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           </svg>
         </LinkButton>
       </div>
-    </section>
+    </section> -->
   </main>
 
   <Footer />
