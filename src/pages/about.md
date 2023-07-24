@@ -2,7 +2,13 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
-
+<img
+  alt="a cool photo of Avikant"
+  src="/assets/avikant.jpg"
+  style="background: url(/assets/avikant.jpg) 100% / cover;
+  border-radius: 10px;
+      width:2000px;"
+/>
 I am Avikant, a software engineer with a strong focus on machine learning and backend development.
 
 Currently working at <a href="https://www.hackerrank.com">HackerRank</a>, I had the opportunity to work in the machine learning team, where I actively contributed to the development of industry's formost <a href="https://www.hackerrank.com/features/plagiarism-detection/">AI Powered Plagiarism</a> and ML Platform buildout.
