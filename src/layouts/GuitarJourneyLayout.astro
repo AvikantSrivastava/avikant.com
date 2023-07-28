@@ -1,0 +1,133 @@
+---
+import { SITE } from "@config";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+import Footer from "@components/Footer.astro";
+import Header from "@components/Header.astro";
+import Layout from "./Layout.astro";
+
+export interface Props {
+  frontmatter: {
+    title: string;
+    description?: string;
+  };
+}
+
+const { frontmatter } = Astro.props;
+---
+
+<Layout title={`${frontmatter.title} | ${SITE.title}`}>
+  <Header activeNav="about" />
+  <Breadcrumbs />
+  <main id="main-content">
+    <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
+      <h1 class="text-2xl tracking-wider sm:text-3xl">{frontmatter.title}</h1>
+      <slot />
+    </section>
+  </main>
+  <Footer />
+</Layout>
+
+
+<style>
+body {
+  margin: 40px;
+}
+
+.divider {
+  display: flex;
+
+  &:before,
+  &:after {
+    content: "";
+    flex: 1;
+  }
+}
+
+.line {
+  align-items: center;
+  margin: 1em -1em;
+
+  &:before,
+  &:after {
+    height: 1px;
+    margin: 0 1em;
+  }
+}
+
+
+  .one-line {
+    &:before,
+    &:after {
+      background: black;
+    }
+  }
+
+  .razor {
+    &:before,
+    &:after {
+      box-shadow: 0 0.5px 0 black;
+    }
+  }
+
+  .double-razor {
+    &:before,
+    &:after {
+      height: 3px;
+      box-shadow:
+        0 -0.5px 0 black,
+        0 0.5px 0 black;
+      border-width: 0;
+    }
+  }
+
+	.glow {
+    &:before,
+    &:after {
+      height: 6px;
+      -webkit-filter: blur(5px);
+      border-radius: 5px;
+    }
+
+    &:before {
+      background: linear-gradient(to right, blue, hotpink);
+    }
+
+    &:after {
+      background: linear-gradient(to left, blue, hotpink);
+    }
+  }
+
+.gradient {
+  align-items: stretch;
+  margin: 1em 0;
+  height: 2em;
+  line-height: 2em;
+  color: white;
+  background: black;
+
+  &:before {
+    background: linear-gradient(to right, white, black);
+  }
+
+  &:after {
+    background: linear-gradient(to left, white, black);
+	}
+}
+
+.donotcross {
+  overflow: hidden;
+  align-items: center;
+  background: hsl(50, 100%, 50%);
+  color: black;
+  height: 2em;
+  line-height: 2em;
+
+  &:before,
+  &:after {
+    background: white;
+    padding: 50px 0;
+    height: 0;
+    transform: rotate(45deg);
+  }
+}
+</style>

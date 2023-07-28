@@ -15,7 +15,7 @@ breadcrumbList[0] === "posts" &&
 <nav class="breadcrumb" aria-label="breadcrumb">
   <ul>
     <li>
-      <a href="/">Home</a>
+      <a href="/">home</a>
       <span aria-hidden="true">&#62;</span>
     </li>
     {
@@ -23,7 +23,7 @@ breadcrumbList[0] === "posts" &&
         index + 1 === breadcrumbList.length ? (
           <li>
             <span
-              class={`${index > 0 ? "lowercase" : "capitalize"}`}
+              class={`lowercase`}
               aria-current="page"
             >
               {/* make the last part lowercase in Home > Tags > some-tag */}
@@ -49,7 +49,7 @@ breadcrumbList[0] === "posts" &&
     @apply inline;
   }
   .breadcrumb ul li a {
-    @apply capitalize opacity-70;
+    @apply opacity-70;
   }
   .breadcrumb ul li span {
     @apply opacity-70;
