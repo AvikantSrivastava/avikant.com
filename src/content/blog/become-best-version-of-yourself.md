@@ -4,14 +4,14 @@ pubDatetime: 2023-09-17T21:40:11.162473Z
 title: Become best version of yourself :)
 postSlug: become-best-version-of-yourself
 featured: true
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
+ogImage: /assets/become-best-version-of-yourself.jpeg
 tags:
   - self-help
   - motivation
   - philosophy
 description: ""
 ---
-
+![](/assets/become-best-version-of-yourself.jpeg)
 These are some of my thoughts that I want to document for myself. This is not a motivational lecture, but I would feel gratified if someone could draw inspiration from my blog.
 
 Life is a complicated journey, filled with ups and downs. Few things are under your control and most are not. Some folks have a natural tendency to swim through the flowing river called life, some learn it by experience and end up being clueless and lost.
