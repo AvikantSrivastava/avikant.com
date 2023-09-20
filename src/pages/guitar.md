@@ -10,6 +10,21 @@ title: "my guitar journey"
       width:2000px;"
 /> -->
 
+## September 16, 2023
+This is actually my favourite Led Zeppelin song (also my ringtone lol)
+Black Dog - Led Zeppelin
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">black dog by <a href="https://twitter.com/ledzeppelin?ref_src=twsrc%5Etfw">@ledzeppelin</a> <a href="https://t.co/ESNuTvBmVA">pic.twitter.com/ESNuTvBmVA</a></p>&mdash; avikant (@Aesthetixell) <a href="https://twitter.com/Aesthetixell/status/1703033650370289802?ref_src=twsrc%5Etfw">September 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## September 3, 2023
+Metallica's classics
+Seek and Destroy from Kill em all
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">one of metallica’s classics<br><br>SEEK AND DESTROY 🤘🎸 <a href="https://t.co/AAsYOiTa1a">pic.twitter.com/AAsYOiTa1a</a></p>&mdash; avikant (@Aesthetixell) <a href="https://twitter.com/Aesthetixell/status/1698272192382075231?ref_src=twsrc%5Etfw">September 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 6 August, 2023
+Recorded my first ever cover. Smells like teen spirit by Nirvana!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/184i2FKgTug?si=Fo-sNMOSwFTYd0Qp&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## July 16, 2023
 <hr class="border-skin-line" aria-hidden={ariaHidden} />
 
