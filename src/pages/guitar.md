@@ -16,6 +16,11 @@ Black Dog - Led Zeppelin
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">black dog by <a href="https://twitter.com/ledzeppelin?ref_src=twsrc%5Etfw">@ledzeppelin</a> <a href="https://t.co/ESNuTvBmVA">pic.twitter.com/ESNuTvBmVA</a></p>&mdash; avikant (@Aesthetixell) <a href="https://twitter.com/Aesthetixell/status/1703033650370289802?ref_src=twsrc%5Etfw">September 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+## September 16, 2023
+Recorded a cover of Arctic Monekeys - I bet you look good on the dancefloor
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O83zFMLcna0?si=GuNV1RACN00mDq8V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## September 3, 2023
 Metallica's classics
 Seek and Destroy from Kill em all
