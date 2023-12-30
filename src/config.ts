@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Avikant Srivastava",
   desc: "Avikant Srivastava's Homepage",
   title: "home",
-  ogImage: "avikant-srivastava-metatag.jpg",
+  ogImage: "avikant-srivastava-metatag.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
