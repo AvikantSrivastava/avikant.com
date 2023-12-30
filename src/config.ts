@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://avikant.com",
+  website: "https://avikant.com/",
   author: "Avikant Srivastava",
   desc: "Avikant Srivastava's Homepage",
   title: "home",
-  ogImage: "avikant-srivastava-metatag.png",
+  ogImage: "/avikant-srivastava-og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
