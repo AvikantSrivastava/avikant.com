@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://avikant.com/",
   author: "Avikant Srivastava",
   desc: "Hi there, this is Avikant",
-  title: "home",
+  title: "Avikant Srivastava",
   ogImage: "/avikant-srivastava-og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
