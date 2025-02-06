@@ -11,9 +11,14 @@ title: "About"
 />
 I am Avikant, a software engineer with a strong focus on machine learning and backend development.
 
-Currently working at <a href="https://www.hackerrank.com">HackerRank</a>, I had the opportunity to work in the machine learning team, where I actively contributed to the development of industry's formost <a href="https://www.hackerrank.com/features/plagiarism-detection/">AI Powered Plagiarism</a> and ML Platform buildout.
+I currently work at <a href="https://en.wikipedia.org/wiki/CERN">CERN</a> as a Software Engineer within the Computer Security team, where I focus on consolidating infrastructure and maintaining critical services for our Security Operation Center (SoC), including intrusion detection, incident response, logging, and traceability.
 
-I'm a huge technology fan and love staying updated on the latest developments in science and technology, I absolutely love chatting about space, science, math, computing, music, philosophy and more!
+Previosly I worked at <a href="https://www.hackerrank.com">HackerRank</a>, I had the opportunity to work in the machine learning team, where I actively contributed to the development of industry's formost <a href="https://www.hackerrank.com/features/plagiarism-detection/">AI Powered Plagiarism</a> and ML Platform buildout.
+
+In addition to my professional work, I’m developing a multiplayer implementation of the popular card game UNO at <a href="https://avikant.com/uno">avikant.com/uno</a>. This project offers a great opportunity to learn Go, explore WebSockets, and deepen my understanding of concurrent programming.
+
+I’m passionate about technology and stay up-to-date with the latest developments in science and tech. I love chatting about space, science, math, computing, music, philosophy, and more!
+
 
 ## Programming
 
@@ -38,6 +43,3 @@ Here is a list of Tools and Frameworks that I have expertise in or hold a deep a
 
 Passionate about rock and metal music, I've begun my guitar journey, inspired by my favorite bands. Follow along as I share my progress and experiences here 👇
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎸Arctic Monkeys- Do I wanna know <a href="https://t.co/YlZSehEUl3">pic.twitter.com/YlZSehEUl3</a></p>&mdash; avikant (@Aesthetixell) <a href="https://twitter.com/Aesthetixell/status/1670508354219954176?ref_src=twsrc%5Etfw">June 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
