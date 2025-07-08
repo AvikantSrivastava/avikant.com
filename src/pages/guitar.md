@@ -11,36 +11,43 @@ title: "my guitar journey"
 /> -->
 
 ## June 21, 2025
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 I was experimenting with drop tuning, and I discovered that Aerials by SOAD is in drop C#. The picking pattern was tricky in the beginning but I got used it it :)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sPZEUo52U6g?si=Js89pof3GEHQgNoJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## May 31, 2025
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 Something about this song got it stuck in my head, it probably a gateway into Porcupine Tree, and now they’re easily in my top 10 favorite bands.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cXpLOhYUiTM?si=0Pztq9hRbdvcrkIl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## April 17, 2025
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 This was perhaps the very first Nirvana song that I learned on guitar, but it always sounded a bit dissonant in regular tuning. So I used a GarageBand plugin to drop the tuning by a whole step and it sounds perfectly melodic.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0s5kJ3hdY5I?si=Cz0XROFd8U51zjwT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## January 3, 2025
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 
 It is the start of the year and Linkin Park is back with a new album. Although I like the new Linkin Park, nothing beats LP from the hybrid theory era.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BaIabM9l3ws?si=84cH67j_p6pypkLP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## August 12, 2024
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 This is my very first real cover video! I recorded two separate guitar tracks, James's rhythm part and Kirk's lead part. I spent months refining Kirk’s solos to get them just right. The song is from the album Ride the Lightning, and if you look closely at 02:47, there’s a lightning strike in the background (a funny little coincidence)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ROvijtu0Or4?si=ZhD0iU-fe_HdebIL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## July 8, 2024
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 
 Back to jamming with the people from CERN Music club. Playing BOBD by Greenday.
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Boulevard of Broken Dreams - Greenday <a href="https://t.co/7yTXyRHXN8">pic.twitter.com/7yTXyRHXN8</a></p>&mdash; Avikant Srivastava (@BraughtDeer) <a href="https://twitter.com/BraughtDeer/status/1810113777053917303?ref_src=twsrc%5Etfw">July 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## June 9, 2024
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 Perhaps the only Megadeth song that I can attempt to play. The goal for the next years to aleast learn 5 Megadeth song :P
 Symphony of Destruction by Megadeth
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y3z3u0F5keY?si=TlgLlDYkP-uIADSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -48,6 +55,7 @@ Symphony of Destruction by Megadeth
 
 
 ## May 4, 2024
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 My first ever Jam session with CERN people. Playing a few Nirvana and AM songs.
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">yes we played ARCTIC MONEKYS !! <a href="https://t.co/at4Jy26jEv">https://t.co/at4Jy26jEv</a> <a href="https://t.co/rgkkAdsMZx">pic.twitter.com/rgkkAdsMZx</a></p>&mdash; Avikant Srivastava (@BraughtDeer) <a href="https://twitter.com/BraughtDeer/status/1786725921774338241?ref_src=twsrc%5Etfw">May 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -55,51 +63,62 @@ My first ever Jam session with CERN people. Playing a few Nirvana and AM songs.
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">My first ever jam session with people from <a href="https://twitter.com/CERN?ref_src=twsrc%5Etfw">@cern</a> music club 🎸 <a href="https://t.co/8B2XBjPmwy">pic.twitter.com/8B2XBjPmwy</a></p>&mdash; Avikant Srivastava (@BraughtDeer) <a href="https://twitter.com/BraughtDeer/status/1786725069395304628?ref_src=twsrc%5Etfw">May 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## April 20, 2024
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 Practicing some Metallica rhythms
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Playing some heavy metal today!! <a href="https://t.co/6kD3JejVDL">pic.twitter.com/6kD3JejVDL</a></p>&mdash; Avikant Srivastava (@BraughtDeer) <a href="https://twitter.com/BraughtDeer/status/1781755188115554420?ref_src=twsrc%5Etfw">April 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## April 17, 2024
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 In Bloom by Nirvana
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Just recorded a quick cover of NIRVANA - IN BLOOM 🎸 <a href="https://t.co/8FVcHOj6Ez">pic.twitter.com/8FVcHOj6Ez</a></p>&mdash; Avikant Srivastava (@BraughtDeer) <a href="https://twitter.com/BraughtDeer/status/1780518115769536737?ref_src=twsrc%5Etfw">April 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## April 6, 2024
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 I GOT A NEW GUITAR AND IT IS A JACKSON!!!
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">JACKSON IT IS 🔥 <a href="https://t.co/lboYHizMvO">https://t.co/lboYHizMvO</a> <a href="https://t.co/xgf2ll4Fsg">pic.twitter.com/xgf2ll4Fsg</a></p>&mdash; Avikant Srivastava (@BraughtDeer) <a href="https://twitter.com/BraughtDeer/status/1776673630627180938?ref_src=twsrc%5Etfw">April 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Feb 25, 2024
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 Saying goodbye to this guitar by learning to play Alive by Pearl Jam, I thought I was playing it really well unless I heard what I recorded :P
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">learned something new!<br><br>pearl jam - alive <a href="https://t.co/CcBbkw3RbB">pic.twitter.com/CcBbkw3RbB</a></p>&mdash; Avikant Srivastava (@BraughtDeer) <a href="https://twitter.com/BraughtDeer/status/1761760428206498257?ref_src=twsrc%5Etfw">February 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## February 6, 2024
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 Dio - Holy Diver
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">what 4am feels like <a href="https://t.co/VCbRHXDubO">pic.twitter.com/VCbRHXDubO</a></p>&mdash; Avikant Srivastava (@BraughtDeer) <a href="https://twitter.com/BraughtDeer/status/1754998562755080633?ref_src=twsrc%5Etfw">February 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## February 2, 2024
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 New strings and I am rocking on this Arctic Monkeys song 🤘
 R U Mine?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICAJNZK8dAk?si=wiiLLkQASYaskC9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## September 16, 2023
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 This is actually my favourite Led Zeppelin song (also my ringtone lol)
 Black Dog - Led Zeppelin
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">black dog by <a href="https://twitter.com/ledzeppelin?ref_src=twsrc%5Etfw">@ledzeppelin</a> <a href="https://t.co/ESNuTvBmVA">pic.twitter.com/ESNuTvBmVA</a></p>&mdash; avikant (@Aesthetixell) <a href="https://twitter.com/Aesthetixell/status/1703033650370289802?ref_src=twsrc%5Etfw">September 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## September 16, 2023
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 Recorded a cover of Arctic Monekeys - I bet you look good on the dancefloor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O83zFMLcna0?si=GuNV1RACN00mDq8V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## September 3, 2023
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
 Metallica's classics
 Seek and Destroy from Kill em all
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">one of metallica’s classics<br><br>SEEK AND DESTROY 🤘🎸 <a href="https://t.co/AAsYOiTa1a">pic.twitter.com/AAsYOiTa1a</a></p>&mdash; avikant (@Aesthetixell) <a href="https://twitter.com/Aesthetixell/status/1698272192382075231?ref_src=twsrc%5Etfw">September 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 6 August, 2023
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
+
 Recorded my first ever cover. Smells like teen spirit by Nirvana!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/184i2FKgTug?si=Fo-sNMOSwFTYd0Qp&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
