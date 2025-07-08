@@ -13,28 +13,27 @@ title: "my guitar journey"
 ## June 21, 2025
 I was experimenting with drop tuning, and I discovered that Aerials by SOAD is in drop C#. The picking pattern was tricky in the beginning but I got used it it :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sPZEUo52U6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sPZEUo52U6g?si=Js89pof3GEHQgNoJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## May 31, 2025
 Something about this song got it stuck in my head, it probably a gateway into Porcupine Tree, and now they’re easily in my top 10 favorite bands.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=cXpLOhYUiTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cXpLOhYUiTM?si=0Pztq9hRbdvcrkIl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## April 17, 2025
 This was perhaps the very first Nirvana song that I learned on guitar, but it always sounded a bit dissonant in regular tuning. So I used a GarageBand plugin to drop the tuning by a whole step and it sounds perfectly melodic.
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=0s5kJ3hdY5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0s5kJ3hdY5I?si=Cz0XROFd8U51zjwT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## January 3, 2025
 
 It is the start of the year and Linkin Park is back with a new album. Although I like the new Linkin Park, nothing beats LP from the hybrid theory era.
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BaIabM9l3ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BaIabM9l3ws?si=84cH67j_p6pypkLP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## August 12, 2024
 This is my very first real cover video! I recorded two separate guitar tracks, James's rhythm part and Kirk's lead part. I spent months refining Kirk’s solos to get them just right. The song is from the album Ride the Lightning, and if you look closely at 02:47, there’s a lightning strike in the background (a funny little coincidence)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ROvijtu0Or4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ROvijtu0Or4?si=ZhD0iU-fe_HdebIL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## July 8, 2024
 
@@ -44,8 +43,7 @@ Back to jamming with the people from CERN Music club. Playing BOBD by Greenday.
 ## June 9, 2024
 Perhaps the only Megadeth song that I can attempt to play. The goal for the next years to aleast learn 5 Megadeth song :P
 Symphony of Destruction by Megadeth
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Y3z3u0F5keY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y3z3u0F5keY?si=TlgLlDYkP-uIADSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
