@@ -32,6 +32,12 @@ This was perhaps the very first Nirvana song that I learned on guitar, but it al
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0s5kJ3hdY5I?si=Cz0XROFd8U51zjwT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+## February 3, 2025
+<hr class="border-skin-line" aria-hidden={ariaHidden} />
+
+Learning to play In my time of need by Opeth
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">For a change some clean tones with melancholic progression <a href="https://t.co/S4twb4SLwO">pic.twitter.com/S4twb4SLwO</a></p>&mdash; Avikant Srivastava (@BraughtDeer) <a href="https://twitter.com/BraughtDeer/status/1886542479379304723?ref_src=twsrc%5Etfw">February 3, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## January 3, 2025
 <hr class="border-skin-line" aria-hidden={ariaHidden} />
 
