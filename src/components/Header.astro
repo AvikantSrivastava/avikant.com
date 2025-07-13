@@ -7,7 +7,7 @@ import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "resume" | "search";
+  activeNav?: "posts" | "about" | "resume" | "search";
 }
 
 const { activeNav } = Astro.props;
@@ -128,6 +128,8 @@ const { activeNav } = Astro.props;
   </div>
   <Hr />
 </header>
+
+<br>
 
 <style>
   #skip-to-content {
