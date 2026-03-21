@@ -1,6 +1,9 @@
 {
   "name": "avikant-website",
   "version": "2.3.0",
+  "engines": {
+    "node": "24.x"
+  },
   "scripts": {
     "dev": "astro check --watch & astro dev",
     "start": "astro dev",
