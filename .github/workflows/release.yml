@@ -70,8 +70,8 @@ jobs:
       - name: Package site artifacts
         run: |
           TAG="${{ steps.tag.outputs.tag }}"
-          tar -czf "site-${TAG}.tar.gz" -C dist .
-          zip -r "site-${TAG}.zip" dist/
+          tar -czf "site.tar.gz" -C dist .
+          zip -r "site.zip" dist/
 
       - name: Create and push tag
         if: github.event_name == 'workflow_dispatch'
