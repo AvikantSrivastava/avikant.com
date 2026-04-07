@@ -28,12 +28,12 @@ jobs:
           DATE="${YEAR}.${MONTH}.${DAY}"
 
           # Find the next available build counter for today
-          COUNTER=0
-          while git tag --list "v${DATE}.${COUNTER}" | grep -q .; do
+          COUNTER=1
+          while git tag --list "v${DATE}-${COUNTER}" | grep -q .; do
             COUNTER=$((COUNTER + 1))
           done
 
-          TAG="v${DATE}.${COUNTER}"
+          TAG="v${DATE}-${COUNTER}"
           echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
           echo "Generated tag: ${TAG}"
         if: github.event_name == 'workflow_dispatch'
@@ -69,9 +69,8 @@ jobs:
 
       - name: Package site artifacts
         run: |
-          TAG="${{ steps.tag.outputs.tag }}"
           tar -czf "site.tar.gz" -C dist .
-          zip -r "site.zip" dist/
+          cd dist && zip -r "../site.zip" . && cd ..
 
       - name: Create and push tag
         if: github.event_name == 'workflow_dispatch'
