@@ -96,16 +96,16 @@ jobs:
 
             **Tarball:**
             ```sh
-            curl -L https://github.com/${{ github.repository }}/releases/download/${{ steps.tag.outputs.tag }}/site-${{ steps.tag.outputs.tag }}.tar.gz -o site.tar.gz
+            curl -L https://github.com/${{ github.repository }}/releases/download/${{ steps.tag.outputs.tag }}/site.tar.gz -o site.tar.gz
             tar -xzf site.tar.gz -C /path/to/serve
             ```
 
             **Zip:**
             ```sh
-            curl -L https://github.com/${{ github.repository }}/releases/download/${{ steps.tag.outputs.tag }}/site-${{ steps.tag.outputs.tag }}.zip -o site.zip
+            curl -L https://github.com/${{ github.repository }}/releases/download/${{ steps.tag.outputs.tag }}/site.zip -o site.zip
             unzip site.zip -d /path/to/serve
             ```
           files: |
-            site-${{ steps.tag.outputs.tag }}.tar.gz
-            site-${{ steps.tag.outputs.tag }}.zip
+            site.tar.gz
+            site.zip
           make_latest: true
