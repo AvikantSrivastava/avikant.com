@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "Avikant Srivastava",
   ogImage: "/avikant-srivastava-og.png",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 10,
 };
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
